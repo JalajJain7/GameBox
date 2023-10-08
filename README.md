@@ -13,3 +13,9 @@ It is a GameBox build using Flutter, which has multiple games including -
 Contributors -
 
 1) Jalaj Jain
+2) <a href="https://github.com/Mahak2432" target="_blank" >Mahak Shah</a>
+3) Akki Pedda Sowmya Sri
+4) Priyanka chaudhary
+5) Sakchhi Agarwal
+6) Shwetanshu Singh
+7) Paramita Mallik
